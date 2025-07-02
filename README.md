@@ -1,16 +1,14 @@
-## Hi there 👋
+## Привет, Я Рома
 
-<!--
-**SEPRepeat/SEPRepeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент ИТМО, паралельно университету учусь фронтенду (JS, React) и создаю пет-проекты, также как и в направлении - Product Management
+Я нацелен на максимальный результат и хочу стать мидлом к 4му курсу
+Сейчас изучаю React, Git и JS-фреймворки  
+В новые проекты приношу идеи и немного юмора (как уж без него)
 
-Here are some ideas to get you started:
+Контакт - teleidea@bk.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Языки и технологии:
+![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
