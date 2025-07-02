@@ -22,9 +22,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat&logo=trello)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Miro](https://img.shields.io/badge/-Miro-black?style=flat&logo=miro)
-![Slack](https://img.shields.io/badge/-Slack-black?style=flat&logo=slack)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-black?style=flat&logo=googleanalytics)
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira)
 
 
 ## Интересы и навыки
